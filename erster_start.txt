@@ -1,0 +1,18 @@
+DocAgent - Erster Start
+
+Beim ersten Starrt von DocAgent befinden sich drei Dokumente in data/docs
+
+Diese drei Dokumente sind praktisch für DocAgent-Tests:
+
+    Rechnung: Beträge, Rechnungsdatum, Zahlungsfrist
+    Vertrag: Vertragsbeginn, Laufzeit, Kündigungsfrist
+    Kündigung: Absender, Empfänger, Kündigungsdatum, Vertragsende
+
+Damit kannst du direkt typische Fragen testen wie:
+
+    Wie hoch ist der Rechnungsbetrag?
+    Wer ist der Rechnungsempfänger?
+    Wann beginnt der Vertrag?
+    Wie lange läuft der Vertrag?
+    Wer ist der Empfänger der Kündigung?
+    Zu welchem Datum wurde gekündigt?

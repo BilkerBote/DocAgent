@@ -1,0 +1,14 @@
+faiss==1.5.3
+networkx==3.6.1
+numpy==2.4.6
+odfpy==1.4.1
+ollama==0.6.2
+pypdf==6.13.3
+pyside6==6.11.1
+pyside6_addons==6.11.1
+pyside6_essentials==6.11.1
+python_docx==1.2.0
+qtawesome==1.4.2
+Requests==2.34.2
+sentence_transformers==5.4.1
+torch==2.5.1+cu121

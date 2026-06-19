@@ -1,0 +1,28 @@
+Rechnung Nr. 2025-001
+
+Muster IT-Service GmbH
+Musterstraße 12
+40210 Düsseldorf
+
+Rechnungsempfänger:
+
+Max Mustermann
+Beispielweg 45
+40215 Düsseldorf
+
+Rechnungsdatum: 15.05.2025
+
+Leistungsbeschreibung:
+
+* Softwarewartung April 2025      89,00 EUR
+* Fernsupport                     45,00 EUR
+* Datensicherung                  35,00 EUR
+
+Zwischensumme:                   169,00 EUR
+MwSt. (19%):                      32,11 EUR
+
+Gesamtbetrag:                    201,11 EUR
+
+Zahlbar bis: 29.05.2025
+
+Vielen Dank für Ihren Auftrag.

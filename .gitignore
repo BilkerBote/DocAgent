@@ -8,5 +8,6 @@ venv/
 
 data/faiss.index
 data/documents.pkl
+data/docs/
 
 *.log

@@ -356,10 +356,20 @@ Geplante Erweiterungen für kommende Versionen:
 Die Entwicklung erfolgt kontinuierlich anhand praktischer Anwendungsfälle und Tests mit realen Dokumentenbeständen.
 
 ---
+## Hinweis
+> [!NOTE]
+> **Gemeinsam am Projekt arbeiten**
+> Du hast Fragen, Feedback oder eine 
+> Idee für das Projekt? Darüber freue 
+> ich mich sehr! Bitte nutze 
+> dafür **ausschließlich** 
+> die [GitHub Issues](../../issues) dieses Repositorys. So bleibt alles an einem Ort und hilft auch anderen weiter. Vielen Dank für deine Unterstützung!
+
+---
 
 ## Autor
 
-**Klaus Kremer**
+**Kl. Kremer**
 
 Konzeption, Entwicklung und Architektur von DocAgent.
 
